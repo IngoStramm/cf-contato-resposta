@@ -35,9 +35,9 @@ function cfcr_define_global_js_var()
 }
 require_once 'cmb.php';
 require_once 'shortcode.php';
-require 'plugin-update-checker-4.10/plugin-update-checker.php';
+require_once 'plugin-update-checker-4.10/plugin-update-checker.php';
 $updateChecker = Puc_v4_Factory::buildUpdateChecker(
-    'https://raw.githubusercontent.com/IngoStramm/cf-v3/master/info.json',
+    'https://raw.githubusercontent.com/IngoStramm/cf-contato-resposta/master/info.json',
     __FILE__,
-    'cf-v3'
+    'cfrf'
 );
