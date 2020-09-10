@@ -1,11 +1,11 @@
 {
     "name": "Converte Fácil: Contato Resposta",
-    "version": "0.9.1",
+    "version": "1.0.0",
     "download_url": "https://github.com/IngoStramm/cf-contato-resposta/raw/master/dist/cfcr.zip",
     "homepage": "https://agencialaf.com",
     "requires": "4.7",
     "tested": "5.5",
-    "last_updated": "2020-09-10 14:30:00",
+    "last_updated": "2020-09-10 14:35:00",
     "upgrade_notice": "Atualização do Converte Fácil disponível",
     "author": "Ingo Stramm",
     "author_homepage": "https://agencialaf.com",

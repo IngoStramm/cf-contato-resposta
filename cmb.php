@@ -59,7 +59,7 @@ function cfcr_register_theme_options_metabox()
 	 */
 
     $cmb_options->add_field(array(
-        'name' => __('Página de resposa do Formulário de Contato', 'cfcr'),
+        'name' => __('Página de resposta do Formulário de Contato', 'cfcr'),
         'id'   => 'cfcr_resposta_id',
         'type' => 'select',
         'options_cb' => 'cfcr_return_pages',
