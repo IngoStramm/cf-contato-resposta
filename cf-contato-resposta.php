@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Converte Fácil: Contato Resposta
  * Description: Plugin para adicionar uma página de resposta ao formulário de contato
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Ingo Stramm
  * Text Domain: cfcr
  */
